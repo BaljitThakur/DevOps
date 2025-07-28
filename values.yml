@@ -1,0 +1,5 @@
+controller:
+  kind: DaemonSet
+  hostPort:
+    enabled: true
+  ingressClass: nginx
